@@ -1,9 +1,11 @@
-# Sorting Algorithm Visualizer
+# Sorting Algorithm Visualizer with Cursor AI
+A web application built with Next.js and TypeScript to visualize how different sorting algorithms work.
 
-# Blog Post
+## Blog Post
 This repo is part of a blog post that can be found [here:](https://medium.com/@wjleon/the-new-google-firebase-studio-gave-me-vibes-of-2010-the-vibe-coding-battle-b568d51d4ed1)
 
-A web application built with Next.js and TypeScript to visualize how different sorting algorithms work.
+## You can see and use the deployed app
+[Click here to open the app](https://sorting-algorithms-cursor-ai.vercel.app/)
 
 ## Features
 
